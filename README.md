@@ -1,2 +1,2 @@
-# Stock-IT
-An E-commerce website that only deals with IT and related products.
+# It uses the Laravel 12 framework
+# Look for tutorials for installation
